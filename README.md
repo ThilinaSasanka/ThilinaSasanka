@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sasanka99
+- 👋 Hi, I’m @ThilinaSasanka
 - 👀 I’m interested in artificial intelligence and how it can transform various industries. I am particularly fascinated by machine learning and its applications in healthcare and finance.
 - 🌱 I’m currently learning B.Sc. (Honours) in Statistics and Operations Research (SOR)
 - 💞️ I’m looking to collaborate with other data scientists and developers
